@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vc/se2P73bZ7U8kjBFDJ+ooiP8hMDCTa/iIsY0TnhTiK81l6IenW6h23mGhLaiHsxVf//Bcbw8POE5FQz4AFTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zacth\\Desktop\\Exercise8\\Exercise8\\Exercise8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zacth\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\zacth\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacth\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zacth\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
